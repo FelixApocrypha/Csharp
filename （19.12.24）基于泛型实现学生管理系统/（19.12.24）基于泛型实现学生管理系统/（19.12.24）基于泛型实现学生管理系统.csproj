@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>_19._12._24_基于泛型实现学生管理系统</RootNamespace>
+  </PropertyGroup>
+
+</Project>
