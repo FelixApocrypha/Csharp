@@ -1,1 +1,1 @@
-# Some C# Applications developed by myself
+# Some C# Applications developed by myself.
